@@ -1,0 +1,5 @@
+tkepubview
+==========
+A simple ePub ebook viewer.
+
+Requires tkinter and tkinterhtml (pip install tkinterhtml) to render HTML files.
